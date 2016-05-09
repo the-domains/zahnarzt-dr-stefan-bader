@@ -4,10 +4,10 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Adresse: Dr. Stefan Bader Rochusstraße 305 53123 Bonn (Duisdorf)'
-datePublished: '2016-05-09T18:42:37.948Z'
-dateModified: '2016-05-09T18:07:01.830Z'
-title: ''
+description: Dr. Stefan Bader Rochusstraße 305 53123 Bonn (Duisdorf)
+datePublished: '2016-05-09T18:49:22.073Z'
+dateModified: '2016-05-09T18:45:58.587Z'
+title: Adresse
 author: []
 sourcePath: _posts/2016-05-09-adresse-dr-stefan-bader-rochusstrasse-305-53123-bonn-duisd.md
 authors: []
@@ -23,7 +23,8 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/084efa16-c19c-43a4-89c8-fcb1aa2ef6cd.jpg)
 
-Adresse:  
+# Adresse
+
 Dr. Stefan Bader  
 Rochusstraße 305  
 53123 Bonn (Duisdorf)
