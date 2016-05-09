@@ -1,7 +1,7 @@
 name: Zahnarzt Dr. Stefan Bader
 favicon: null
-layout_spectrum: 0.28076112107373774
-typography_spectrum: 0.9750269139185548
+layout_spectrum: 0.73396
+typography_spectrum: 0.36419
 title: Zahnarzt Dr. Stefan Bader
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.712402255507186
-  lightness: 0.6073823624756187
-  saturation: 0.1870514159090817
-  rhythmicContrast: 0.5386279881931841
+  brandStrength: 0.4375
+  lightness: 0.6875
+  saturation: 0.75
+  rhythmicContrast: 0.75
 purpose: []
