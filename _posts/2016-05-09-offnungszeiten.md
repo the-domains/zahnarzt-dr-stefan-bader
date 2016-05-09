@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Mo 8:00 - 13:00 und 14:00 - 19:00Di 8:00 - 13:00 und 14:00 - 18:00Mi 8:00 - 13:00Do 9:00 - 15:00 und 16:00 - 20:00Fr 8:00 - 13:00'
-datePublished: '2016-05-09T18:41:34.629Z'
-dateModified: '2016-05-09T18:41:01.762Z'
+datePublished: '2016-05-09T18:49:29.473Z'
+dateModified: '2016-05-09T18:48:31.813Z'
 title: Öffnungszeiten
 author: []
 authors: []
@@ -15,8 +15,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
 sourcePath: _posts/2016-05-09-offnungszeiten.md
+starred: true
 url: offnungszeiten/index.html
 _type: Article
 
