@@ -4,7 +4,7 @@
         <description><![CDATA[Zahnarzt Dr. Stefan Bader]]></description>
         <link>https://thegrid.ai/zahnarzt-dr-stefan-bader/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 May 2016 18:49:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2016 19:04:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/zahnarzt-dr-stefan-bader/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Öffnungszeiten]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/zahnarzt-dr-stefan-bader/adresse-dr-stefan-bader-rochusstrasse-305-53123-bonn-duisd/index.html</link>
             <guid isPermaLink="false">b0c173fe-fde8-44e3-ba3e-efc794ce8543</guid>
             <pubDate>Mon, 09 May 2016 18:49:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Disclaimer]]></title>
+            <description><![CDATA[<h1>Disclaimer</h1>]]></description>
+            <link>https://thegrid.ai/zahnarzt-dr-stefan-bader/disclaimer/index.html</link>
+            <guid isPermaLink="false">ff82b7cd-8f17-4407-9a31-bbeacefad22f</guid>
+            <pubDate>Mon, 09 May 2016 19:03:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
